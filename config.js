@@ -12,7 +12,7 @@ const TOOLBOX_LINKS = {
   l1:  "https://voorbeeld.be/toolbox-l1",
   l2:  "https://voorbeeld.be/toolbox-l2",
   l3:  "https://voorbeeld.be/toolbox-l3",
-  l4:  "https://voorbeeld.be/toolbox-l4",
+  l4:  "https://dolphin-2gvz1d.my.canva.site",
   l5:  "https://voorbeeld.be/toolbox-l5",
   l6:  "https://voorbeeld.be/toolbox-l6",
   "4J": "https://voorbeeld.be/toolbox-4j",
