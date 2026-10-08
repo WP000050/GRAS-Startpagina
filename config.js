@@ -3,7 +3,7 @@ const LEERLING_DOMEIN = "leerling.vbsgrasheide.be";
 const TOOLBOX_LINKS = {
   l1: "https://vbsgrasheide1.my.canva.site/",
   l2: "https://site.vbsgrasheide.be/",
-  l3: "https://site.vbsgrasheide.be/",
+  l3: "https://dolphin-2gvz1d.my.canva.site/ke-gras-l3",
   l4: "https://dolphin-2gvz1d.my.canva.site/",
   l5: "https://site.vbsgrasheide.be/",
   l6: "https://site.vbsgrasheide.be/",
